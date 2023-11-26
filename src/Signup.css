@@ -1,0 +1,28 @@
+.signupcontainer{
+    background-image: url("C:\Balaram\myapp\public\signupbg.jpeg");
+    background-size: cover;
+}
+.signintable{
+    padding: 10px;
+    height: 800px;
+    border-radius: 30px;
+    background-color: cadetblue;
+    align-content: center;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: rgb(226, 78, 14);
+}
+.signupbutton{
+    border-radius: 30px;
+    border-width: 5px;
+    background-color: aquamarine;
+    width: 100px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+
+
+

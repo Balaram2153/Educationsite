@@ -1,0 +1,112 @@
+.main{
+    background-image: url("https://uploads-ssl.webflow.com/6000aba55a5017babf44a8b9/6071a0a9352921e2d545529a_trumont-hero-2-team.jpg");
+    height: 50vh;
+}
+
+.main h1{
+    color: aliceblue; font-size: 3rem;
+}
+
+.main h3{
+    color: aliceblue; margin-left: 20%; margin-top: 2%; font-size: 2rem;
+}
+
+.OurProfile{
+    display: flex;
+}
+
+.OurProfile img{
+    width: 150%; margin-top: 10%; height: 60vh; margin-left: 5%; 
+    border-radius: 5rem;
+}
+
+.OurProfile h1{
+    font-size: 3rem; margin-left: 30%; margin-top: 5%;
+}
+
+.OurProfile h3{
+    margin-left: 30%; margin-top: 3%;
+}
+
+.OurProfile input{
+    width: 15%; height: 5vh; cursor: pointer; margin-left: 50%;
+    margin-top: 2%;
+}
+
+.believe{
+    display: flex;
+}
+
+.believe-right img{
+    margin-top: 15%; height: 70vh;
+}
+
+.believe-left h1{
+    font-size: 3rem; margin-left: 20%; margin-top: 5%;
+}
+
+.believe-left h3{
+    margin-left: 5%; margin-top: 2%; text-align: center;
+}
+
+.why{
+    display: flex; margin-top: 5%;
+}
+
+.why-left img{
+    margin-left: 10%;
+}
+
+.why-right h1{
+    font-size: 3rem; margin-left: 20%;
+}
+
+.why-right h3{
+    font-size: 1.2rem; margin-left: 15%; margin-right: 10%; margin-top: 3%;
+}
+
+.logos{
+    width: 300px;
+    margin-left: 150px;
+    
+}
+.media{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.media img{ 
+    width: 100%;  
+    height: 25vh;
+}
+
+
+
+
+
+
+.aboutcards{
+    display: flex; padding-inline: 60px; height: 60vh; 
+}
+
+.aboutcards #card-1{
+    border: 1px solid black; border-radius: 2rem; background-color: black; color: aliceblue;
+}
+
+.aboutcards #card-2{
+    border: 1px solid black; border-radius: 2rem; margin-left: 20px;
+    background-color: black; color: aliceblue;
+}
+
+.aboutcards #card-3{
+    border: 1px solid black; border-radius: 2rem; margin-left: 20px;
+    background-color: black; color: aliceblue;
+}
+
+.aboutcards .card-header{
+    text-align: center; font-size: 2rem;
+}
+
+.aboutcards .card-body{
+    text-align: center;
+}

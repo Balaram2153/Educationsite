@@ -1,0 +1,245 @@
+.homehead{
+    padding: 20px 0;
+    color: black;
+
+}
+
+.homelogo h1{
+    font-size: 35px;
+    font-weight: 900;
+}
+.homecontainer{
+    max-width: 85%;
+    margin: auto;
+}
+
+header{
+    background-color:rgba(64, 61, 61, 0.2) ;
+    margin: 0 30px;
+    display: flex;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+header ul {
+    padding: 30px 20px;
+}
+header li{
+    margin-right: 40px;
+}
+header ul li a{
+    color:black;
+    font-weight: 500;
+    transition: 0.5s;
+}
+header ul li a:hover {
+    color: #1eb2a6 ;
+}
+.start{
+    display: flex;
+    justify-content:flex-end;
+    background-color: #1eb2a6;
+    padding: 30px 70px ;
+    color: black;
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.flexSB{
+    display: flex;
+}
+.homeimage{
+    width: 1615px;
+    padding: 8px;
+    margin-left: 15px;
+    
+}
+.homeimage1{
+    width: 90%;
+    height: 500px;
+    border-radius: 5px;
+}
+.homecontent{
+    margin: 20px;
+}
+.homecontent1{
+    display: flex;
+    padding: 25px;
+}
+.homesubcontent {
+    
+    margin: 8px;
+    margin-left: 10px;
+    font-size: large;
+    padding: 15px;
+}
+.homesubcontent1 {
+    
+    margin: 8px;
+    margin-right: 20px;
+    font-size: large;
+    padding: 15px;
+}
+.homerahul{
+    width: 500px;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    margin: 15px;
+}
+.homerahul1{
+    
+    border-radius: 10px;
+    width: 100%;
+
+}
+.homerahul2{
+    
+    display: flex;
+    justify-content: space-around;
+    gap: 2px;
+    align-items: center;
+}
+.homerahul2 p {
+    font-size: large;
+}
+.homesideimage{
+    width: 450px;
+    border-radius: 20px;
+}
+.homereview{
+    width: 1350px;
+    margin-left: 135px;
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    border-radius: 8px;
+    background-color: #1eb2a6;
+    color: rgb(120, 61, 175);
+}
+
+.hometestimonial1{
+    border: 2px solid black;
+    width: 450px;
+    height: 32vh;
+}
+.hometestimonial1 h3 {
+    font-size: large;
+}
+.hometimage{
+    border: 2px solid black;
+    width: 30%;
+    border-radius: 50%;
+}
+
+.homeawardscontent{
+    display: flex;
+    justify-content: center;
+}
+.homeawards{
+    background-color: #b6e2df;
+    border: 0.5px solid black;
+    border-radius: 12px;
+    width: 450px;
+    height: 15vh;
+    margin: 15px;
+    display: flex;
+}
+.homeaward1{
+    border-radius: 50%;
+    width: 100px;
+    margin: 35px;
+    margin-left: 40px;
+    margin-top: 35px;
+}
+.homebest{
+    margin-top: 18px;
+    margin-left: 45px;
+}
+
+.homebenifits{
+    width: 550px;
+    margin: 20px auto;
+    
+}
+.homebenifits1{
+    width: 650px;
+    height: 35vh;
+    position: absolute;
+    border-radius: 15px;
+    opacity: 0.8;
+}
+.homeprogramme{
+    padding: 12px;
+}
+.homeprogramme{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 350px;
+}
+.homecards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.homefullstack{
+    width: 100%;
+    border-radius: 5px;
+}
+.homeprogramme h1{
+    padding: 8px;
+}
+.homeprogramme button{
+    margin: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 12px;
+    font-size: large;
+    cursor: pointer;
+    
+}
+.homematter{
+    position: relative;
+}
+.homematter{
+    font-size: x-large;
+    padding: 11px;
+}
+.homefaq{
+    margin-left: 200px;
+}
+
+.homefaqmain{
+    display: flex;
+}
+.homea1{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 550px;
+    padding: 20px;
+    background-color: #1eb2a6;
+    margin-left: 150px;
+    
+}
+.homea2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 25px;
+}
+.homea2 p {
+    font-size: larger;
+}
+.homea3{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 550px;
+    padding: 20px;
+    background-color: white;
+    margin-left: 150px;
+
+}
